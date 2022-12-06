@@ -7,7 +7,7 @@ int main()
     {
         printf("VOWEL");
     }
-    else 
+    else
     {
         printf("CONSONANT");
     }
